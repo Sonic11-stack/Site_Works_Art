@@ -6,7 +6,7 @@
 
 ## 🛠️ Технологии
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS
 
 ## 🖼️ Скриншоты сайта: 
 
